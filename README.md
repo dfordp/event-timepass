@@ -4,12 +4,12 @@ KOSU is an innovative platform that combines AI-powered talent matching, skill v
 
 ### Team Members
 
-* Dilpreet Grover
 * Aditya Jha
 * Sanatan Sharma
 * Nishtha Singh
 * Roshani Kumari
-
+* Dilpreet Grover
+  
 ## Table of Contents
 
 * [Overview](#overview)
